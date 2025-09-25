@@ -1,0 +1,19 @@
+{
+  "name": "pixi_roulette",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@pixi/devtools": "^2.0.1",
+    "vite": "^7.1.7"
+  },
+  "dependencies": {
+    "pixi.js": "^8.13.2"
+  }
+}
