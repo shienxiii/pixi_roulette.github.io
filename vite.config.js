@@ -2,7 +2,7 @@ import { defineConfig } from "vite";
 
 
 export default defineConfig({
-  base: "/pixi_roulette.github.io/",
+  base: "/pixi_roulette/",
 
   build: {
     outDir: "dist",
