@@ -5,7 +5,7 @@ export default defineConfig({
   base: "/pixi_roulette/",
 
   build: {
-    outDir: "dist",
+    outDir: "docs",
     sourcemap: true,
   },
 });
