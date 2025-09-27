@@ -1,0 +1,17 @@
+{
+  "name": "pixi_roulette",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --base=/pixi_roulette.github.io/",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.1.7"
+  },
+  "dependencies": {
+    "pixi.js": "^8.13.2"
+  }
+}
